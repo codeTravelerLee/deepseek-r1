@@ -1,2 +1,6 @@
 # deepseek-r1
-loading pre-trained deepseek r1 model served by hugging face
+deepseek-r1 API로 구현한 챗봇입니다. 
+
+frontEnd: React.js
+
+backEnd: Nest.js
